@@ -8,9 +8,9 @@ Repositorio de apuntes, vocabulario y práctica.
 - speaking/
 - writing/
 
-## GIT
+# GIT
 
-# subir readme
+### subir readme
 git init
 
 git add .
@@ -26,7 +26,7 @@ git push -u origin main
 
 
 
-# subir archivos
+### subir archivos
 pwd
 ls
 
@@ -37,6 +37,7 @@ git commit -m "Add English folders structure"
 git push
 
 git status
+
 
 
 
