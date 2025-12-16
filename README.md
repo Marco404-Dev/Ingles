@@ -1,7 +1,7 @@
 # Ingles
 Repositorio de apuntes, vocabulario y práctica.
 
-## Estructura
+### Estructura
 - vocabulario/
 - gramatica/
 - listening/
@@ -37,6 +37,7 @@ git commit -m "Add English folders structure"
 git push
 
 git status
+
 
 
 
