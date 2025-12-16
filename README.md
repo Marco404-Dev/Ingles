@@ -10,6 +10,14 @@ Repositorio de apuntes, vocabulario y práctica.
 
 ## GIT
 
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/algoritmos-estructuras-datos.git
+git push -u origin main
+
+
 pwd
 ls
 
@@ -20,3 +28,4 @@ git commit -m "Add English folders structure"
 git push
 
 git status
+
