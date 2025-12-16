@@ -10,14 +10,23 @@ Repositorio de apuntes, vocabulario y práctica.
 
 ## GIT
 
+# subir readme
 git init
+
 git add .
+
 git commit -m "Initial commit"
+
 git branch -M main
+
 git remote add origin https://
+
 git push -u origin main
 
 
+
+
+# subir archivos
 pwd
 ls
 
@@ -28,5 +37,6 @@ git commit -m "Add English folders structure"
 git push
 
 git status
+
 
 
