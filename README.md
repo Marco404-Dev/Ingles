@@ -41,10 +41,15 @@ git status
 
 ### subir archivos
 git pull
+
 ///trabajas (creas/edita archivos)
+
 git add .
+
 git commit -m "..."
+
 git push
+
 
 
 
