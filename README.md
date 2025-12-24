@@ -123,6 +123,7 @@ git push
 
 ### crear carpetas y archivos desde git bash
 
+```bash
 **cd /c/ruta/a/tu/repo**  
 
 **mkdir pronunciation**
@@ -132,6 +133,7 @@ git push
 **git add pronunciation/**
 **git commit -m "Add pronunciation folder"**
 **git push origin main**
+
 
 
 
