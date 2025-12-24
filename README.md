@@ -124,15 +124,16 @@ git push
 ### crear carpetas y archivos desde git bash
 
 ```bash
-cd /c/ruta/a/tu/repo
+cd /c/ruta/a/tu/repo                           # Entrar a la carpeta de tu repositorio
 
-mkdir pronunciation
-touch pronunciation/PRONUNCIATION_HACKS.md
+mkdir pronunciation                            # Crear una carpeta llamada pronunciation
+touch pronunciation/PRONUNCIATION_HACKS.md     # Crear un archivo Markdown dentro de esa carpeta
 
-git status
-git add pronunciation/
-git commit -m "Add pronunciation folder"
-git push origin main
+git status                                     # Ver el estado del repositorio  
+git add pronunciation/                         # Le dices a Git: “incluye todo lo que está dentro de pronunciation/ en el próximo commit”.
+git commit -m "Add pronunciation folder"       # Guarda oficialmente esos cambios en el historial del repo (local).
+git push origin main                           # Envía tus commits a tu repositorio remoto (GitHub), al remoto llamado origin, rama main.
+
 
 
 
