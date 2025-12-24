@@ -1,4 +1,4 @@
-#🍎 The 12 Golden Sentences (English)
+# The 12 Golden Sentences (English)
 
 The apple is red.
 La manzana es roja.
@@ -86,6 +86,7 @@ git add .
 git commit -m "..."
 
 git push
+
 
 
 
