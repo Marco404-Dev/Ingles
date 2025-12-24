@@ -104,9 +104,13 @@ git pull                                # actualizar tu carpeta del proyecto si 
 
 ///trabajas (creas/edita archivos)
 
-git status                              # ver q cosa vas agregar(buena practica)
-git add .                               # prepara (pone en “staging”) todos los cambios de la carpeta actual y subcarpetas para el próximo commit.
-git commit -m "..."
+git status                              # Te dice: “¿Qué cambió?”, Qué archivos están nuevos, cuáles editaste, cuáles ya están listos para commit
+
+git add .                               # Te dice: “Estos archivos sí van al próximo guardado (commit)”.
+                                                   # *git add clase1/* = agrega esa carpeta y lo que tenga.
+                                                   # *git add* . = agrega todo lo que cambió.
+
+git commit -m "..."                     # Hace el “guardado oficial” en tu PC (historial de Git).
 git push                                # Si tu rama ya está vinculada al remoto, *git push* basta.
                                         # Si no está vinculada, usarías: *git push -u origin main*
 ```
@@ -123,6 +127,7 @@ git add pronunciation/                         # Le dices a Git: “incluye todo
 git commit -m "Add pronunciation folder"       # Guarda oficialmente esos cambios en el historial del repo (local).
 git push origin main                           # Envía tus commits a tu repositorio remoto (GitHub), al remoto llamado origin, rama main.
 ```
+
 
 
 
