@@ -124,15 +124,16 @@ git push
 ### crear carpetas y archivos desde git bash
 
 ```bash
-**cd /c/ruta/a/tu/repo**  
+cd /c/ruta/a/tu/repo
 
-**mkdir pronunciation**
-**touch pronunciation/PRONUNCIATION_HACKS.md**
+mkdir pronunciation
+touch pronunciation/PRONUNCIATION_HACKS.md
 
-**git status**
-**git add pronunciation/**
-**git commit -m "Add pronunciation folder"**
-**git push origin main**
+git status
+git add pronunciation/
+git commit -m "Add pronunciation folder"
+git push origin main
+
 
 
 
