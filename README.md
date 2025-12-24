@@ -81,45 +81,34 @@
 # GIT
 
 ### subir readme
-git init
+git init                                                  
 
-git add .
+git add .                                                
 
-git commit -m "Initial commit"
+git commit -m "Initial commit"                          
 
-git branch -M main
+git branch -M main                                
 
-git remote add origin https://
+git remote add origin https://                    
 
-git push -u origin main
-
-
+git push -u origin main                     
 
 
-### subir archivos
-pwd
-ls
 
-git pull
+### subir archivos creados desde tu pc
+```bash
+pwd                                     # muestra la ruta completa de la carpeta en la que estás parado ahora mismo.
+ls                                      # lista los archivos y carpetas que hay en la carpeta actual.
 
-git add .
-git commit -m "Add English folders structure"
-git push
-
-git status
-
-
-### subir archivos
-git pull
+git pull                                # actualizar tu carpeta del proyecto si se hizo cambios desde git hub
 
 ///trabajas (creas/edita archivos)
 
-git add .
-
+git status                              # ver q cosa vas agregar(buena practica)
+git add .                               # prepara (pone en “staging”) todos los cambios de la carpeta actual y subcarpetas para el próximo commit.
 git commit -m "..."
-
-git push
-
+git push                                # Si tu rama ya está vinculada al remoto, *git push* basta.
+                                        # Si no está vinculada, usarías: *git push -u origin main*
 
 ### crear carpetas y archivos desde git bash
 
@@ -133,6 +122,7 @@ git status                                     # Ver el estado del repositorio
 git add pronunciation/                         # Le dices a Git: “incluye todo lo que está dentro de pronunciation/ en el próximo commit”.
 git commit -m "Add pronunciation folder"       # Guarda oficialmente esos cambios en el historial del repo (local).
 git push origin main                           # Envía tus commits a tu repositorio remoto (GitHub), al remoto llamado origin, rama main.
+
 
 
 
