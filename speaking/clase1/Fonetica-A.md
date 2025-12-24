@@ -41,78 +41,10 @@ Boca más abierta que en español y lengua baja. Es una “a” **abierta**.
 
 ---
 
-## Caso 3) **A “rara”** (no suena “a” española) — subcasos
+## Caso 3)  **A suena como “O”**
 
-Este caso es confuso porque **no es un solo sonido**. En inglés americano, la “A rara” suele caer en 3 subcasos:
+Cuando **a** está antes de **w**, suele sonar parecido a “o/aw”.
 
----
-
-### Subcaso 3A) **A = /ɑ/**  (suena como “AH” profundo)
-
-#### ¿Cuándo pasa? (patrones comunes)
-- Palabras tipo **father**
-- Combinación **-alm** (la **l** casi desaparece)
-
-#### Ejemplos
-- **father** → “FAH-ther”
-- **calm** → “kahm”
-- **palm** → “pahm”
-
-#### Cómo reconocerlo rápido
-Si ves **-alm** o palabras como **father**, piensa en **AH (/ɑ/)**.
-
----
-
-### Subcaso 3B) **A = /ɔ/**  (suena como “AW” — parecido a “O” larga)
-
-#### ¿Cuándo pasa? (patrones comunes)
-- Muy frecuente con **A + L**: **all, call, fall, small**
-- También en **talk / walk** (la “l” no se pronuncia claramente)
-
-#### Ejemplos
-- **all** → “awl”
-- **call** → “cawl”
-- **talk** → “tawk”
-- **walk** → “wawk”
-
-#### Cómo reconocerlo rápido
-Si ves **-all** o **-alk**, normalmente es **AW (/ɔ/)**.
-
----
-
-### Subcaso 3C) **A = /ʌ/**  (suena como “UH”)
-
-#### ¿Cuándo pasa? (patrones comunes)
-- Palabras muy comunes: **was** y **what**
-
-#### Ejemplos
-- **was** → “wuz”
-- **what** → “wut”
-
-#### Cómo reconocerlo rápido
-Si la palabra es **was/what**, recuerda: **UH (/ʌ/)**.
-
----
-
-## Resumen rápido (para memorizar)
-- **/eɪ/** (“EI”): *late, name, take*
-- **/æ/** (“A corta”): *cat, man, map*
-- **Caso 3 (A rara)**:
-  - **/ɑ/** (“AH”): *father, calm, palm*
-  - **/ɔ/** (“AW/O”): *all, call, talk, walk*
-  - **/ʌ/** (“UH”): *was, what*
-
----
-
-## Mini práctica (5 minutos)
-Di en voz alta y nota el cambio de boca:
-
-### /eɪ/
-- late, name, game
-
-### /æ/
-- cat, man, black
-
-### /ɑ/  vs  /ɔ/  vs  /ʌ/
-- father (AH) — all (AW) — was (UH)
-- calm (AH) — talk (AW) — what (UH)
+**Ejemplos:**
+- **want** → “wont / wahnt”
+- **wand** → “wont / wahnd”
