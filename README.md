@@ -109,7 +109,7 @@ git add .                               # prepara (pone en “staging”) todos 
 git commit -m "..."
 git push                                # Si tu rama ya está vinculada al remoto, *git push* basta.
                                         # Si no está vinculada, usarías: *git push -u origin main*
-
+```
 ### crear carpetas y archivos desde git bash
 
 ```bash
@@ -122,6 +122,7 @@ git status                                     # Ver el estado del repositorio
 git add pronunciation/                         # Le dices a Git: “incluye todo lo que está dentro de pronunciation/ en el próximo commit”.
 git commit -m "Add pronunciation folder"       # Guarda oficialmente esos cambios en el historial del repo (local).
 git push origin main                           # Envía tus commits a tu repositorio remoto (GitHub), al remoto llamado origin, rama main.
+```
 
 
 
