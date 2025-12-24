@@ -1,42 +1,75 @@
 # The 12 Golden Sentences (English)
 
-The apple is red.
-La manzana es roja.
 
-This is John’s apple.
-Esta es la manzana de John.
+### 1️⃣ Present – State
+**The apple is red.**  
+*La manzana es roja.*
 
-I give the apple to John.
-Le doy la manzana a John.
+---
 
-We give the apple to him.
-Le damos la manzana a él.
+### 2️⃣ Possession
+**This is John’s apple.**  
+*Esta es la manzana de John.*
 
-He gives it to John.
-Él se la da a John.
+---
 
-She gives it to him.
-Ella se la da a él.
+### 3️⃣ Present – Action
+**I give the apple to John.**  
+*Le doy la manzana a John.*
 
-Is the apple red?
-¿La manzana es roja?
+---
 
-The apples are red.
-Las manzanas son rojas.
+### 4️⃣ Pronouns
+**We give the apple to him.**  
+*Le damos la manzana a él.*
 
-I must give it to him.
-Debo dársela a él.
+---
 
-I want to give it to her.
-Quiero dársela a ella.
+### 5️⃣ Third Person
+**He gives it to John.**  
+*Él se la da a John.*
 
-I will know tomorrow.
-Sabré mañana.
+---
 
-I ate the apple.
-Comí la manzana.
+### 6️⃣ Pronouns (She)
+**She gives it to him.**  
+*Ella se la da a él.*
 
+---
 
+### 7️⃣ Question
+**Is the apple red?**  
+*¿La manzana es roja?*
+
+---
+
+### 8️⃣ Plural
+**The apples are red.**  
+*Las manzanas son rojas.*
+
+---
+
+### 9️⃣ Modal Verb (Must)
+**I must give it to him.**  
+*Debo dársela a él.*
+
+---
+
+### 🔟 Intention
+**I want to give it to her.**  
+*Quiero dársela a ella.*
+
+---
+
+### 1️⃣1️⃣ Future
+**I will know tomorrow.**  
+*Sabré mañana.*
+
+---
+
+### 1️⃣2️⃣ Past
+**I ate the apple.**  
+*Comí la manzana.*
 
 
 
@@ -86,6 +119,7 @@ git add .
 git commit -m "..."
 
 git push
+
 
 
 
