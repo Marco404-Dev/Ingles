@@ -1,4 +1,4 @@
-# Pronunciación de la letra **A** (Inglés Americano) — desde cero
+# Pronunciación de la letra **A** 
 
 En inglés, la letra **A** no tiene un único sonido. Para empezar, conviene aprender **3 casos principales**.  
 El **Caso 3** (la “A rara”) se divide en **subcasos**; ahí es donde suele estar la confusión.
@@ -48,3 +48,4 @@ Cuando **a** está antes de **w**, suele sonar parecido a “o/aw”.
 **Ejemplos:**
 - **want** → “wont / wahnt”
 - **wand** → “wont / wahnd”
+
