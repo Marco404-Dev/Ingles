@@ -1,4 +1,4 @@
-# Pronunciación de la letra **O**  — 4 formas (modo práctico)
+# Pronunciación de la letra **O**  — 4 formas 
 
 En inglés, la letra **O** cambia de sonido según el patrón de la palabra.
 Para empezar, úsalo así (como tu cuadro): **OU / U / O / A**.
@@ -64,3 +64,4 @@ Para empezar, úsalo así (como tu cuadro): **OU / U / O / A**.
 - **rock** → “rak”
 
 ---
+
