@@ -1,4 +1,4 @@
-# Pronunciación de la letra **I** (modo práctico tipo YouTube) — 3 casos
+# Pronunciación de la letra **I** — 3 casos
 
 > En cursos para hispanohablantes, muchas veces se enseña así para evitar el error más común:
 > pronunciar la **I** como “i” española fuerte (eso te acerca a *EE* como en **beat**).
@@ -42,3 +42,4 @@
 - **police** → “po-liis”
 - **pizza** → “pii-tsa” (aprox.)
 - **unique** → “yu-niik”
+
