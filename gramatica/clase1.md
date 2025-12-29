@@ -53,16 +53,12 @@ Se usa para expresar **identidad, estado, profesión, edad, nacionalidad y carac
 
 El verbo **to be** cambia según el sujeto.
 
-| Sujeto | Verbo |
-|------|------|
+| Sujeto | Verbo TO BE |
+|------|------------|
 | I | **am** |
 | You | **are** |
-| He | **is** |
-| She | **is** |
-| It | **is** |
-| We | **are** |
-| You (plural) | **are** |
-| They | **are** |
+| He / She / It | **is** |
+| We / You (plural) / They | **are** |
 
 ---
 
@@ -123,3 +119,4 @@ Ejemplos:
 
 📌 En inglés **NO se puede decir una oración sin verbo**.  
 📌 Si no hay otro verbo, **TO BE siempre aparece**.
+
