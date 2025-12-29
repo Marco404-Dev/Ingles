@@ -127,10 +127,17 @@ git add pronunciation/                         # Le dices a Git: “incluye todo
 git commit -m "Add pronunciation folder"       # Guarda oficialmente esos cambios en el historial del repo (local).
 git push origin main                           # Envía tus commits a tu repositorio remoto (GitHub), al remoto llamado origin, rama main.
 ```
+### Extras
+```bash
+agregar  ---> git add archivo
+eliminar ---> git rm archivo
+
+editor de texto de Git (Vim) --->     ESC
+                                     :wq
+                                      ENTER
 
 
-
-
+```
 
 
 
