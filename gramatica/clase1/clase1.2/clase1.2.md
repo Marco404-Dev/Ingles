@@ -27,22 +27,16 @@ También se pueden usar contracciones:
 ---
 
 
+# Contraction
 
-# 2. Questions in English (Forma interrogativa)
+- She is not happy. / She isn't happy.
+- They are not here. / They aren't here.
+- He was not late. / He wasn't late.
 
-En inglés, las preguntas se forman **invirtiendo el orden** del sujeto y el auxiliar.
-
----
-
-### 2.1 Yes / No Questions with **BE**
-
-#### Structure:
-BE + Subject + Complement ?
-
-#### Examples:
-- **Are** you ready?
-- **Is** she your sister?
-- **Was** he angry?
-- **Were** they at school?
+- Is he not ready? / Isn't he ready?
+- Are they not here? / Aren't they here?
+- Is she not late? / Isn't she late?
 
 ---
+
+
