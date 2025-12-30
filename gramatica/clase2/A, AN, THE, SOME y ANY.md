@@ -150,7 +150,7 @@ She doesn't have any friends here.
 
 There isn't any water.
 
-##❓ ANY — preguntas
+## ❓ ANY — preguntas
 
 Do you have any questions?
 
@@ -159,7 +159,7 @@ Is there any milk?
 Are there any problems?
 
 
-## ⚠️ Excepción: uso de **SOME** en preguntas
+### ⚠️ Excepción: uso de **SOME** en preguntas
 
 Normalmente:
 - **SOME** se usa en oraciones afirmativas  
@@ -169,7 +169,7 @@ Normalmente:
 
 ---
 
-### ✅ ¿Cuándo se usa SOME en preguntas?
+#### ✅ ¿Cuándo se usa SOME en preguntas?
 
 Se usa **SOME** en preguntas cuando:
 
@@ -181,11 +181,12 @@ En estos casos, la pregunta **no es neutra**, es **intencional o amable**.
 
 ---
 
-### ☕ Ofrecer algo (SOME)
+#### ☕ Ofrecer algo (SOME)
 
 
 Would you like some coffee?
 Do you want some help?
+
 
 
 
