@@ -182,14 +182,20 @@ En estos casos, la pregunta **no es neutra**, es **intencional o amable**.
 ---
 
 #### ☕ Ofrecer algo (SOME)
-
-
 Would you like some coffee?
+
 Do you want some help?
 
 
+#### 🥤 Pedir algo (SOME)
+Can I have some water?
 
+Could you give me some advice?
 
+#### 👍 Esperar una respuesta positiva (SOME)
+Is there some food ready?
+
+Did you get some rest?
 
 
 
