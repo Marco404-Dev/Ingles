@@ -36,6 +36,7 @@ También se pueden usar contracciones:
 - Is he not ready? / Isn't he ready?
 - Are they not here? / Aren't they here?
 - Is she not late? / Isn't she late?
-- 
+
 ---
+
 
