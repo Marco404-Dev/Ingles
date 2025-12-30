@@ -92,3 +92,70 @@ The beautiful boy
 📌 “Beautiful” es el mismo.
 
 ---
+# 🇺🇸 Inglés Básico – Adjetivos Demostrativos
+
+Los **adjetivos demostrativos** se usan para **señalar o indicar** un objeto o persona según su **distancia** y su **número (singular o plural)**.
+
+---
+
+## ✨ Lista de adjetivos demostrativos
+
+| Distancia | Singular | Plural |
+|---------|----------|--------|
+| Cerca | this | these |
+| Lejos | that | those |
+
+---
+
+## 📌 Regla principal
+
+**Adjetivo demostrativo + sustantivo**
+
+Ejemplos:
+this book  
+that house  
+these apples  
+those cars  
+
+---
+
+## 📏 Distancia
+
+### 🔹 Cerca
+- **this** → uno cerca  
+- **these** → varios cerca  
+
+Ejemplos:
+This phone is new.  
+These shoes are comfortable.  
+
+---
+
+### 🔹 Lejos
+- **that** → uno lejos  
+- **those** → varios lejos  
+
+Ejemplos:
+That mountain is high.  
+Those buildings are old.  
+
+---
+
+## ⚠️ Regla IMPORTANTE (plural)
+
+El **demostrativo cambia**,  
+el **sustantivo también cambia**.
+
+Ejemplos:
+this apple  
+these apples  
+
+that car  
+those cars  
+
+❌ this apples  
+❌ those car  
+✅ these apples  
+✅ those cars  
+
+---
