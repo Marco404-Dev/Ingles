@@ -35,23 +35,6 @@ Se usa en **presente** con **he, she, it**.
 
 ### Estructura
 
-Sujeto + do not (don’t) + verbo base
-
-
-### Ejemplos
-- I **don’t like** pizza. → No me gusta la pizza.  
-- They **don’t play** football. → Ellos no juegan fútbol.  
-- We **don’t watch** TV every day. → No vemos televisión todos los días.  
-
----
-
-## 3. DOESN’T (does not)
-
-### Uso
-Se usa en **presente** con **he, she, it**.
-
-### Estructura
-
 Sujeto + does not (doesn’t) + verbo base
 
 
@@ -90,4 +73,5 @@ Sujeto + did not (didn’t) + verbo base
 | don’t     | Presente  | I, you, we, they| I don’t like broccoli.          |
 | doesn’t   | Presente  | he, she, it     | She doesn’t play tennis.        |
 | didn’t    | Pasado    | Todas           | We didn’t finish the project.   |
+
 
