@@ -52,7 +52,7 @@ Se usa con **he, she, it**.
 ## 3. DID en pasado
 
 ### 3.1 Uso principal
-- Formar **preguntas**:
+- #### Formar **preguntas**:
 
 Did + sujeto + verbo base + ?
 
@@ -61,7 +61,7 @@ Ejemplos:
 - Did you go to the party yesterday? → ¿Fuiste a la fiesta ayer?  
 - Did they watch the movie? → ¿Vieron la película?  
 
-- Formar **negaciones**:
+- #### Formar **negaciones**:
 
 Sujeto + did not (didn’t) + verbo base
 
@@ -70,7 +70,7 @@ Ejemplos:
 - I didn’t see him yesterday. → No lo vi ayer.  
 - They didn’t finish their homework. → No terminaron su tarea.  
 
-- Dar **énfasis**:
+- #### Dar **énfasis**:
 
 Sujeto + did + verbo base
 
@@ -90,6 +90,7 @@ Ejemplos:
 | Pasado    | Todas         | did + verbo    | didn’t + verbo | Did + sujeto + verbo? |
 
 ---
+
 
 
 
