@@ -134,21 +134,28 @@ Usamos **SOME** cuando decimos que **sí hay algo**.
 
 
 I have some apples.
+
 She has some money.
+
 There is some water.
+
 I bought some books.
 
 
 ## 🔴 ANY — negaciones
 
 I don't have any money.
+
 She doesn't have any friends here.
+
 There isn't any water.
 
 ##❓ ANY — preguntas
 
 Do you have any questions?
+
 Is there any milk?
+
 Are there any problems?
 
 
@@ -179,6 +186,7 @@ En estos casos, la pregunta **no es neutra**, es **intencional o amable**.
 
 Would you like some coffee?
 Do you want some help?
+
 
 
 
