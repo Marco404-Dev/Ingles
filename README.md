@@ -136,8 +136,9 @@ editor de texto de Git (Vim) --->     ESC
                                      :wq
                                       ENTER
 
-
+subir imagen ---> ![Tiempos verbales](../../assets/tiemposVerbales.png)
 ```
+
 
 
 
