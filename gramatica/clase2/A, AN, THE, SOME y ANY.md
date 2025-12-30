@@ -86,17 +86,24 @@ Se usa cuando la palabra siguiente **empieza con sonido de vocal**:
 
 
 the apple      → /ði/
+
 the orange     → /ði/
+
 the island     → /ði/
+
 the hour       → /ði/   (H muda)
+
 the honest man → /ði/
 
 ## 🟢 THE = /ða/ (da)
 
 the book       → /ðə/
+
 the car        → /ðə/
 the tree       → /ðə/
+
 the dog        → /ðə/
+
 the university → /ðə/
 
 
@@ -172,6 +179,7 @@ En estos casos, la pregunta **no es neutra**, es **intencional o amable**.
 
 Would you like some coffee?
 Do you want some help?
+
 
 
 
