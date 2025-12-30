@@ -13,7 +13,7 @@ La diferencia principal es que:
 ## 2. DO en presente
 
 ### 2.1 Uso principal
-- Formar **preguntas**:
+- #### Formar **preguntas**:
 
 I/You/We/They + do + verbo base + ?
 
@@ -22,7 +22,7 @@ Ejemplos:
 - Do you like pizza? → ¿Te gusta la pizza?  
 - Do they play football? → ¿Juegan ellos fútbol?  
 
-- Formar **negaciones**:
+- #### Formar **negaciones**:
 
 I/You/We/They + do not (don’t) + verbo base
 
@@ -31,7 +31,7 @@ Ejemplos:
 - I don’t like broccoli. → No me gusta el brócoli.  
 - They don’t study on Sundays. → Ellos no estudian los domingos.  
 
-- Dar **énfasis**:
+- #### Dar **énfasis**:
 
 I/You/We/They + do + verbo base
 
@@ -90,6 +90,7 @@ Ejemplos:
 | Pasado    | Todas         | did + verbo    | didn’t + verbo | Did + sujeto + verbo? |
 
 ---
+
 
 
 
