@@ -1,6 +1,6 @@
 # 🇺🇸 Inglés – Resumen General de los Tiempos Verbales
 
-![Descripción](assets/tiemposVerbales.png)
+![Tiempos verbales](../../assets/tiemposVerbales.png)
 
 
 ---
@@ -142,5 +142,6 @@ Según eso usamos:
 > **Simple = qué pasa**  
 > **Continuo = qué está pasando**  
 > **Perfecto = qué ya pasó/importa**
+
 
 
