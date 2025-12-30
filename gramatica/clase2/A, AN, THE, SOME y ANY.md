@@ -84,7 +84,7 @@ THE tiene **DOS pronunciaciones**:
 
 Se usa cuando la palabra siguiente **empieza con sonido de vocal**:
 
-```text
+
 the apple      → /ði/
 the orange     → /ði/
 the island     → /ði/
@@ -125,7 +125,7 @@ Se usan con:
 
 Usamos **SOME** cuando decimos que **sí hay algo**.
 
-```text
+
 I have some apples.
 She has some money.
 There is some water.
@@ -169,9 +169,10 @@ En estos casos, la pregunta **no es neutra**, es **intencional o amable**.
 
 ### ☕ Ofrecer algo (SOME)
 
-```text
+
 Would you like some coffee?
 Do you want some help?
+
 
 
 
