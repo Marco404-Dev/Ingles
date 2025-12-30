@@ -1,6 +1,6 @@
 # Clase: Pronombres Objetos en Inglés
 
-![Pronombres Objetos](../../assets/PronombresObjetos.png)
+![Pronombres Objetos](../../../assets/PronombresObjetos.png)
 
 
 ## 1. Introducción
@@ -41,4 +41,5 @@ Los **pronombres objetos** se usan **como complemento directo o indirecto del ve
    - Objeto: me, you, him, her, it, us, you, them  
 
 ---
+
 
