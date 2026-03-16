@@ -137,6 +137,9 @@ editor de texto de Git (Vim) --->     ESC
                                       ENTER
 
 subir imagen ---> ![Tiempos verbales](../../assets/tiemposVerbales.png)
+
+
+clonar repositorio y haci editarlo ----> git clone https://github.com/Marco404-Dev/Sistemas-Operativos.git
 ```
 
 
