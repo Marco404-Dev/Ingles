@@ -140,6 +140,8 @@ subir imagen ---> ![Tiempos verbales](../../assets/tiemposVerbales.png)
 
 
 clonar repositorio y haci editarlo ----> git clone https://github.com/Marco404-Dev/Sistemas-Operativos.git
+
+comprobar si estas dentro del repositorio ---> ubicate primero la carpeta del github y coloca -->  git remote -v
 ```
 
 
